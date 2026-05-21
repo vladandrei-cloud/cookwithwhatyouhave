@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titlu": "Omletă cu brânză și roșii",
+    "ingrediente": ["oua", "branza", "rosii"],
+    "timp": "10 min",
+    "dificultate": "Ușor",
+    "instructiuni": "Bate ouăle, adaugă brânza sfărâmată și roșiile tăiate cubulețe. Pune totul în tigaie pentru 5 minute."
+  },
+  {
+    "id": 2,
+    "titlu": "Salată Grecească Rapidă",
+    "ingrediente": ["rosii", "castraveti", "branza", "masline"],
+    "timp": "5 min",
+    "dificultate": "Ușor",
+    "instructiuni": "Taie legumele și brânza cuburi, amestecă-le într-un bol și adaugă măslinele cu puțin ulei de măsline."
+  },
+  {
+    "id": 3,
+    "titlu": "Paste cu Sos de Roșii și Brânză",
+    "ingrediente": ["paste", "rosii", "usturoi", "branza"],
+    "timp": "20 min",
+    "dificultate": "Mediu",
+    "instructiuni": "Fierbe pastele. Călește usturoiul, adaugă roșiile pasate și lasă-le să scadă. Pune pastele peste sos și presară brânză deasupra."
+  },
+  {
+    "id": 4,
+    "titlu": "Pui la Tigaie cu Usturoi",
+    "ingrediente": ["pui", "usturoi", "ulei"],
+    "timp": "25 min",
+    "dificultate": "Mediu",
+    "instructiuni": "Taie puiul fâșii și prăjește-l în puțin ulei până devine auriu. Adaugă usturoiul pisat în ultimele 2 minute."
+  }
+]
